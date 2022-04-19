@@ -1,3 +1,3 @@
 console.log("Hello");
-setTimeout(() => console.log("Time"), 20000);
+setTimeout(() => console.log("Time"), 2000);
 console.log("World");
